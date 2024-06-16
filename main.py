@@ -1,5 +1,9 @@
 from geoclip import GeoCLIP
-model = GeoCLIP()
+import torch
+if torch.cuda.is_available():
+  model = GeoCLIP().to("cuda")
+else:
+  model = GeoCLIP()
 print("loaded")
 from PIL import Image
 import tempfile
