@@ -7,3 +7,5 @@
 <a target="_blank" href="https://colab.research.google.com/drive/1hm_YOsslWkhgIaEw8wgS_jp2FTyhxND6?usp=sharing">Web U.I. Demo (already on Colab)</a>
 <br>
 <a target="_blank" href="https://colab.research.google.com/drive/1aMkRE3FztkQVpAV1fJBQVtzHpQ_WM75U?usp=sharing">Non-Web U.I. Demo (already on Colab)</a>
+<br>
+<a target="_blank" href="https://huggingface.co/spaces/geolocation87/geolocation">HuggingFace Demo</a>
